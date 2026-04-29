@@ -11,7 +11,7 @@ This document describes a production-grade Retrieval-Augmented Generation (RAG) 
 
 ## Architecture Diagram
 
-![RAG Architecture](a_clean_technical_architecture_diagram_system_de.png)
+![RAG Architecture](gcp_rag-app.png)
 
 ---
 
